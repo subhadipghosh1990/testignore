@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bf20bcc.chunk.css",
+    "main.js": "/static/js/main.84611812.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.4fd076de.js",
+    "static/js/2.a301d222.chunk.js": "/static/js/2.a301d222.chunk.js",
+    "static/js/3.73e3fff4.chunk.js": "/static/js/3.73e3fff4.chunk.js",
+    "static/js/4.9b6207fd.chunk.js": "/static/js/4.9b6207fd.chunk.js",
+    "static/js/5.0ae40a3b.chunk.js": "/static/js/5.0ae40a3b.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.a301d222.chunk.js.LICENSE.txt": "/static/js/2.a301d222.chunk.js.LICENSE.txt",
+    "static/js/3.73e3fff4.chunk.js.LICENSE.txt": "/static/js/3.73e3fff4.chunk.js.LICENSE.txt",
+    "static/js/4.9b6207fd.chunk.js.LICENSE.txt": "/static/js/4.9b6207fd.chunk.js.LICENSE.txt",
+    "static/media/Ascii.png": "/static/media/Ascii.a14aee65.png",
+    "static/media/cert.jpeg": "/static/media/cert.29fe7215.jpeg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/pay.png": "/static/media/pay.3ed6f583.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fd076de.js",
+    "static/js/2.a301d222.chunk.js",
+    "static/css/main.8bf20bcc.chunk.css",
+    "static/js/main.84611812.chunk.js"
+  ]
+}
